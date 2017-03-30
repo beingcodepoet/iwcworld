@@ -10772,13 +10772,13 @@ Copyright (c) 2015 Daniel Eden
     font-size: 14px;
     line-height: 40px;
     padding-top: 4px;
-    color: #27262c; }
+    color: white; }
     .bar .bar-phone i {
       vertical-align: middle;
       margin: 0 7px 0 0;
-      color: #5b5965; }
+      color: white; }
     .bar .bar-phone a {
-      color: #27262c; }
+      color: white; }
   .bar .bar-socials {
     float: right; }
     .bar .bar-socials ul {
@@ -10796,7 +10796,7 @@ Copyright (c) 2015 Daniel Eden
       width: 50px;
       border-left: 1px solid #edebf5;
       text-align: center;
-      color: #7b7983; }
+      color: white; }
     .bar .bar-socials a {
       -webkit-transition: background 0.3s ease-out;
       -o-transition: background 0.3s ease-out;

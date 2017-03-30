@@ -10835,7 +10835,7 @@ Copyright (c) 2015 Daniel Eden
     float: left;
     margin: 32px 0 0 0; }
     .header .header-logo img {
-      width: 30%;
+      width: 70%;
       height: auto; }
     .header .header-logo .site-description {
       color: #27262c;
@@ -13765,3 +13765,22 @@ ul.pagination {
   margin-bottom: 40px; }
 
 /*# sourceMappingURL=style.css.map */
+
+/*------------------------------------------ Extra CSS -------------------------------- */
+
+#aboutheading {
+    
+    font-size: 25px;
+    color: brown;
+    
+}
+
+#aboutusfont {
+    
+    font-family: serif;
+    font-size: 15px;
+    color: black;
+    font-weight: 800;
+    
+    
+}

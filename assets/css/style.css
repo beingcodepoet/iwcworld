@@ -10826,7 +10826,7 @@ Copyright (c) 2015 Daniel Eden
 .header {
   position: relative;
   z-index: 300;
-  height: 100px;
+  height: 180px;
   /*  Tablet Portrait  */
   /*  Mobile  */ }
   .header .columns {
@@ -10845,7 +10845,7 @@ Copyright (c) 2015 Daniel Eden
       font-size: 16px; }
   .header .header-inner {
     float: right;
-    margin-top: 31px; }
+    margin-top: 10px; }
   .header .header-actions {
     float: left;
     margin-left: 10px; }
